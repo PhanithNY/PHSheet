@@ -1,0 +1,15 @@
+{
+  "originHash" : "591a5e498816c4be105d5ee38b04d9ce2c51922394d3c117ce3be6cbbc2f4f00",
+  "pins" : [
+    {
+      "identity" : "easyanchor",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PhanithNY/EasyAnchor.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "926604e4f695864463c9b328c9edce5541e9d408"
+      }
+    }
+  ],
+  "version" : 3
+}
